@@ -1,3 +1,2 @@
 hello world
-adding new line
-new line in feature branch
+changing new line
